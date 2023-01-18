@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         G2A Timezone Glitch
 // @namespace    G2A
-// @version      22.5 //2022 Edition. Last update: 07. August, 2022. This version has Auto-Update enabled, so if g2a changes something in their code, your script will update automatically.
+// @version      22.5 //2023 Edition. Last update: 16. January, 2023. This version has Auto-Update enabled, so if g2a changes something in their code, your script will update automatically.
 // @description  Get any product from G2A for FREE.
 // @author       K3nby
 // @match        https://www.g2a.com/payment
